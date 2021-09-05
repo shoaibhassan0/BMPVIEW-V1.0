@@ -1,5 +1,5 @@
 /*
-	Batkit: Bmpviewer on console....
+	Bmpview: Bmpviewer on console....
 
 	Copyright (c) 2021 shoaib hassan.
 
